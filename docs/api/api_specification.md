@@ -5,8 +5,6 @@
 A API do sistema **<!-- Nome do Projeto -->** segue o padrão RESTful, utilizando
 JSON para comunicação entre cliente e servidor.
 
-Base URL: http://localhost:3000/api
-
 ------------------------------------------------------------------------
 
 ## 2. Autenticação
