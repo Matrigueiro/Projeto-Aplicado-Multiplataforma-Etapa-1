@@ -68,7 +68,7 @@ Principais entidades:
 
 ------------------------------------------------------------------------
 
-## 4. Diagrama de Arquitetura (Descrição)
+## 4. Diagrama de Arquitetura
 
 Usuário → Frontend → API Backend → Banco de Dados
 
