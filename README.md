@@ -100,9 +100,27 @@ Este projeto contribui para o Objetivo de Desenvolvimento Sustentável 11, promo
 ## Estrutura do Projeto
 ```
 docs/
-  requirements/
-  architecture/
-  database/
   api/
+    api_specification.md
+  architecture/
+    Diagrama de Arquitetura.png
+    architeture.md
+  database/
+    Diagrama ER.png
+    database_model.md
+  prototypes/
+    Mobile Criar.png
+    Mobile Detalhes.png
+    Mobile Lista.png
+    Mobile Login.png
+    Web Criar.png
+    Web Detalhes.png
+    Web Lista.png
+    Web Login.png
+    prototypes.md
+  requirements/
+    requirements.md
+.gitignore
+LICENCE.tx
 README.md
 ```
