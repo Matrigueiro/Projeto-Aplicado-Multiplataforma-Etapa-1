@@ -1,6 +1,6 @@
-### Protótipos
+## Protótipos
 
-## Web
+### Web
 <div align="center">
   <img src="Web Login.png" width="900px">
 </div>
@@ -14,7 +14,7 @@
   <img src="Web Criar.png" width="900px">
 </div>
 
-## Mobile
+### Mobile
 <div align="center">
   <img src="Mobile Login.png" width="450px">
 </div>  
