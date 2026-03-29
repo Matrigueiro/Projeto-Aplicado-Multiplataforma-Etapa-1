@@ -101,7 +101,9 @@ Regra: - Um usuário só pode apoiar uma vez por demanda
 
 ## 6. Diagrama ER
 
-<img src="Diagrama ER.png" width="200" height="100">
+<div style="text-align: center;">
+  <img src="Diagrama ER.png" width="500">
+</div>
 
 ------------------------------------------------------------------------
 
