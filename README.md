@@ -101,7 +101,7 @@ Este projeto contribui para o Objetivo de Desenvolvimento Sustentável 11, promo
 
 
 
-## Estrutura do Projeto
+## Estrutura do Repositório
 ```
 docs/
   api/
