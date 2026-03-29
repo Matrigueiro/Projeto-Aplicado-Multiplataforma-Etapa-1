@@ -36,6 +36,10 @@ O sistema segue arquitetura cliente-servidor em camadas:
 - Backend: Node.js + Express
 - Banco de Dados: PostgreSQL
 
+<div style="text-align: center;">
+  <img src="docs/architecture/Diagrama de Arquitetura.png" width="500"
+</div>
+
 
 
 ## Tecnologias
@@ -44,10 +48,6 @@ O sistema segue arquitetura cliente-servidor em camadas:
 - Express
 - PostgreSQL
 - JWT (autenticação)
-
-<div style="text-align: center;">
-  <img src="docs/architecture/Diagrama de Arquitetura.png" width="500"
-</div>
 
 
 
