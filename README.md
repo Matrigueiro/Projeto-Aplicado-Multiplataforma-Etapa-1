@@ -45,6 +45,10 @@ O sistema segue arquitetura cliente-servidor em camadas:
 - PostgreSQL
 - JWT (autenticação)
 
+<div style="text-align: center;">
+  <img src="Diagrama de Arquitetura.png" width="500"
+</div>
+
 
 
 ## Cronograma (Etapa 2)
