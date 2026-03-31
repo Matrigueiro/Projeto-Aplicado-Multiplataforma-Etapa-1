@@ -4,7 +4,7 @@
 
 ## 1.1 Visão Geral
 
-O ** ResolveAqui ** é uma plataforma digital voltada para o registro, acompanhamento e resolução de demandas comunitárias.
+O **ResolveAqui** é uma plataforma digital voltada para o registro, acompanhamento e resolução de demandas comunitárias.
 
 
 ## 1.2 Propósito
