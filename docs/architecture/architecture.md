@@ -2,7 +2,7 @@
 
 ## 1. Visão Geral
 
-O ** <!-- Nome do Projeto --> ** é uma plataforma digital voltada para o registro, acompanhamento e resolução de demandas comunitárias.
+O **ResolveAqui** é uma plataforma digital voltada para o registro, acompanhamento e resolução de demandas comunitárias.
 
 A arquitetura segue o padrão **cliente-servidor** com separação em
 camadas.
