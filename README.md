@@ -69,7 +69,7 @@ O sistema segue arquitetura cliente-servidor em camadas:
 | Nome | Matrícula | Função |
 |------|-----------|--------|
 | Eric Vinícius Dias Aquino | 2326242 | Backend |
-| João Daniel Maciel de Lima | 222824 | Frontend |
+| João Daniel Maciel de Lima | 2222824 | Frontend |
 | Leonardo Estevão Silva dos Santos | 2315238 | Banco de Dados |
 | Maria Joiciellen Simão dos Santos | 2326186 | Testes |
 | Mateus Bruno Trigueiro | 2325500 | Documentação |
